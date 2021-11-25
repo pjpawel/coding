@@ -9,4 +9,4 @@ Repository of CODING lessons for my students
 
 # Few ideas in Scratch
 1. Ping Pong
-2. 
+2. Some story
